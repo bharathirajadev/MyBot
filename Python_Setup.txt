@@ -1,0 +1,36 @@
+Installation Path:
+C:\Users\bharathiraja\AppData\Local\Programs\Python
+
+Environment Variable Set for Python:
+https://www.youtube.com/watch?v=mFqdeX1C-8M
+
+Chatterbot installation:
+Initially used Python 3.8 version but its given error during chatterbot installation
+so used Python 3.5
+pip install chatterbot
+pip install pip -U
+pip install setuptools -U
+pip install chatterbot-corpus
+
+pip install PyAudio
+pip install SpeechRecognition
+pip install pyttsx3
+pip install selenium
+
+
+Projects:
+https://github.com/gunthercox/ChatterBot
+https://github.com/dineshsambasivam/Chatbot_Project
+
+
+Workaround:
+python -m pip install --upgrade pip
+pip install pip -U
+pip install setuptools -U
+pip install -U spacy
+python -m spacy download en
+pip install PyYAML==3.13
+pip install cython>=0.29
+pip install spacy >=2.1
+
+https://stackoverflow.com/questions/50483235/python-cannot-install-module-spacy
